@@ -1,0 +1,27 @@
+PAYMENT OPTIONS
+
+Accepted Payment Methods:
+- Credit Cards: Visa, Mastercard, American Express, Discover
+- Digital Wallets: PayPal, Apple Pay, Google Pay, Venmo
+- Buy Now Pay Later: Shop Pay Installments, Klarna
+
+Payment Security:
+- 256-bit SSL encryption for all transactions
+- PCI DSS Level 1 compliant
+- We never store your full card number
+- 3D Secure verification for international cards
+- Fraud protection on all orders
+
+Installment Plans:
+- Available through Shop Pay and Klarna
+- Split purchase into 4 interest-free payments
+- Available on orders $50 and above
+- Automatic billing every 2 weeks
+- No credit check required
+
+Payment Issues:
+- Card declined: Contact your bank to authorize transaction
+- Payment processing failed: Try different payment method
+- Duplicate charges: Contact support immediately for refund
+- Refund timing: 5-7 business days to original payment method
+- Currency: All prices in USD, international cards accepted

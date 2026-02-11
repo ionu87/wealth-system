@@ -1,0 +1,56 @@
+ACCOUNT MANAGEMENT
+
+Creating an Account:
+- Click "Sign Up" button in top right corner
+- Provide email address and create password
+- Verify email address through confirmation link
+- Complete profile and start shopping
+
+Account Benefits:
+- Faster checkout process
+- Order tracking and history
+- Saved shipping addresses
+- Wishlist feature for future purchases
+- Early access to sales and promotions
+- Birthday rewards
+
+Password Reset:
+- Click "Forgot Password" on login page
+- Enter your registered email address
+- Check email for cat > knowledge_base/returns.txt << 'EOF'
+RETURN POLICY
+
+30-Day Return Window:
+- Items must be unused and in original packaging
+- All tags must be attached
+- Original receipt or order number required
+- Return window starts from delivery date
+
+Return Process:
+1111111111 support@store.1111111111 support@store.1111
+2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2r 2.2.2.2.2.2.2.2.2.2.2.2.2it2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2r . 2.2.2.2.2.2.2.2d within 5-7 business days of receiving return
+
+Return Exceptions:
+- Sale/clearance items: Store credit only, no cash refunds
+- Opened electronics: 15% restocking fee applies
+- Personalized/custom items: Non-returnable
+- Undergarments and swimwear: Non-returnable for hygiene reasons
+
+Free Return Shipping For:
+- Defective or damapassword reset link (check spam folder)
+- Click link and create new password
+- Link expires in 24 hours
+
+Account Security:
+- Use strong, unique password (8+ characters)
+- Enable two-factor authentication (highly recommended)
+- Never share password with anyone
+- Always log out on shared/public devices
+- Review account activity regularly
+
+Order History:
+- View past 2 years of orders
+- Easily reorder previous items
+- Track current shipments in real-time
+- Download invoices for your records
+- View return/refund status
